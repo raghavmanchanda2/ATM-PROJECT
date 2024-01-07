@@ -20,9 +20,9 @@ The aim of the ATM management system project is to build a python based ATM mana
 Processor: AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx 2.10 GHz
 Disc space: 1GB
 
-##Sofwtare Specification 
+## Sofwtare Specification 
 
 Operating system: Windows 10
 Python version: 3.8 or higher
-MYSQL Version: 
+MYSQL Version: 5.7.43
 
